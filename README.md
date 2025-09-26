@@ -50,7 +50,8 @@ JWT_SECRET=your_jwt_secret
 Update frontend API base URL (in client/src/config.js or .env) to match your backend.
 
 **Submission : (Please check my submissions:)**
-
+Fronted:car-wash-booking/car-wash booking/Frontend
+Backend:
 
 
 **Roles & Permissions**
