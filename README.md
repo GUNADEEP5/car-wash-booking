@@ -52,26 +52,15 @@ Update frontend API base URL (in client/src/config.js or .env) to match your b
 **Submission : (Please check my submissions:)**
 
 
+
 **Roles & Permissions**
-Admin Role
+ Admin  
+- Email: admin@example.com  
+- Password: Admin@123  
 
-Manage all users
-
-Access dashboard/analytics
-
-Approve or reject user activities
-
-CRUD operations on all resources
-
-User Role
-
-Register & login
-
-Access personal dashboard
-
-Perform allowed CRUD actions (limited scope)
-
-Interact with system features (e.g., submit forms, view data)
+User  
+- Email: user@example.com  
+- Password: User@123
 
 
 
